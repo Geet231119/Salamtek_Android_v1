@@ -79,7 +79,7 @@ public class BaseTest {
 			caps.setCapability(MobileCapabilityTypeEx.UDID, prop.getProperty("r_UDID"));
 			
 			caps.setCapability(MobileCapabilityTypeEx.NEW_COMMAND_TIMEOUT,Integer.parseInt(prop.getProperty("NewCommandTimeout")));
-			caps.setCapability(MobileCapabilityTypeEx.APP, path + "\\src\\test\\resources\\Apps\\Salamtek_Latest.apk");
+			caps.setCapability(MobileCapabilityTypeEx.APP, "C:\\Users\\g.barried\\git\\Salamtek_Latest.apk");
 			caps.setCapability(MobileCapabilityTypeEx.NO_RESET, false);
 			caps.setCapability(MobileCapabilityTypeEx.FULL_RESET, false);
 			caps.setCapability(MobileCapabilityTypeEx.APP_WAIT_PACKAGE, "com.google.android.permissioncontroller");
