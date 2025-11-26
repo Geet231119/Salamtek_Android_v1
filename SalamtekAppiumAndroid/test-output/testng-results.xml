@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-24T12:43:35 AST" name="Regression" finished-at="2025-11-24T12:48:43 AST" duration-ms="307772">
+    <groups>
+    </groups>
+    <test started-at="2025-11-24T12:43:35 AST" name="Test1" finished-at="2025-11-24T12:48:43 AST" duration-ms="307772">
+      <class name="Tests.FindADoctorTest">
+        <test-method signature="BookingAppointment_BANK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.FindADoctorTest@821330f]" started-at="2025-11-24T12:43:36 AST" name="BookingAppointment_BANK" description="verify whether user is able to proceed appointment with a doctor_KNET_VISA" data-provider="dataForFindADoctor" finished-at="2025-11-24T12:48:41 AST" duration-ms="305095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SLMTK_T11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BookingAppointment_BANK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[verify whether user is able to proceed appointment with a doctor_KNET]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[geet7glen@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Geet@75520]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[doctors]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Livana]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Dr. Livana Clarus Linto]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[In Person Consultation ]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[KNET]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[201825717889145|Knet Test Card [KNET1]|0.000|0.00|0.000]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[0000000001]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[2030]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[5214]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingAppointment_BANK -->
+      </class> <!-- Tests.FindADoctorTest -->
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginTest@97e93f1]" started-at="2025-11-24T12:43:27 AST" name="setup" finished-at="2025-11-24T12:43:35 AST" duration-ms="8520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.LoginTest@97e93f1]" started-at="2025-11-24T12:48:44 AST" name="teardown" finished-at="2025-11-24T12:48:44 AST" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Regression -->
+</testng-results>

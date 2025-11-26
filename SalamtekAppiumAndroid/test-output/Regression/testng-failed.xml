@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Utils.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="Tests.FindADoctorTest">
+        <methods>
+          <include name="BookingAppointment_Cancel" invocation-numbers="0 1"/>
+          <include name="BookingAppointment_Reschedule" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Tests.FindADoctorTest -->
+      <class name="Tests.ShopOnlineTest">
+        <methods>
+          <include name="ShopOnline_Pharmacy" invocation-numbers="0"/>
+          <include name="ShopOnline_Pharmacy_Cancel" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Tests.ShopOnlineTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Regression] -->
