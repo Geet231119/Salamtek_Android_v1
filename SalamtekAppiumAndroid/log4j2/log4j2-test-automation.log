@@ -19,3 +19,6 @@
 [INFO ] 2025-11-26 12:15:18.271 [main] Log - I am in onStart method Test1
 [INFO ] 2025-11-26 12:20:44.121 [main] Log - BookingAppointment_BANK test is succeed.
 [INFO ] 2025-11-26 12:20:44.906 [main] Log - I am in onFinish method Test1
+[INFO ] 2025-11-26 13:52:33.650 [main] Log - I am in onStart method Test1
+[INFO ] 2025-11-26 13:56:52.357 [main] Log - BookingAppointment_BANK test is succeed.
+[INFO ] 2025-11-26 13:56:53.034 [main] Log - I am in onFinish method Test1
