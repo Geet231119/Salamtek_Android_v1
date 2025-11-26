@@ -8,20 +8,11 @@
     <classes>
       <class name="Tests.FindADoctorTest">
         <methods>
-          <include name="BookingAppointment_Cancel" invocation-numbers="0 1"/>
-          <include name="BookingAppointment_Reschedule" invocation-numbers="0"/>
+          <include name="BookingAppointment_BANK" invocation-numbers="0"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>
       </class> <!-- Tests.FindADoctorTest -->
-      <class name="Tests.ShopOnlineTest">
-        <methods>
-          <include name="ShopOnline_Pharmacy" invocation-numbers="0"/>
-          <include name="ShopOnline_Pharmacy_Cancel" invocation-numbers="0"/>
-          <include name="setup"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- Tests.ShopOnlineTest -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Regression] -->

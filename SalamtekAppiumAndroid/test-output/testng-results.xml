@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-24T12:43:35 AST" name="Regression" finished-at="2025-11-24T12:48:43 AST" duration-ms="307772">
+  <suite started-at="2025-11-26T12:15:17 AST" name="Regression" finished-at="2025-11-26T12:20:44 AST" duration-ms="327231">
     <groups>
     </groups>
-    <test started-at="2025-11-24T12:43:35 AST" name="Test1" finished-at="2025-11-24T12:48:43 AST" duration-ms="307772">
+    <test started-at="2025-11-26T12:15:17 AST" name="Test1" finished-at="2025-11-26T12:20:44 AST" duration-ms="327231">
       <class name="Tests.FindADoctorTest">
-        <test-method signature="BookingAppointment_BANK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.FindADoctorTest@821330f]" started-at="2025-11-24T12:43:36 AST" name="BookingAppointment_BANK" description="verify whether user is able to proceed appointment with a doctor_KNET_VISA" data-provider="dataForFindADoctor" finished-at="2025-11-24T12:48:41 AST" duration-ms="305095" status="PASS">
+        <test-method signature="BookingAppointment_BANK(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.FindADoctorTest@6f43c82]" started-at="2025-11-26T12:15:19 AST" name="BookingAppointment_BANK" description="verify whether user is able to proceed appointment with a doctor_KNET_VISA" data-provider="dataForFindADoctor" finished-at="2025-11-26T12:20:44 AST" duration-ms="324697" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -165,11 +165,11 @@
         </test-method> <!-- BookingAppointment_BANK -->
       </class> <!-- Tests.FindADoctorTest -->
       <class name="Tests.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginTest@97e93f1]" started-at="2025-11-24T12:43:27 AST" name="setup" finished-at="2025-11-24T12:43:35 AST" duration-ms="8520" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginTest@5a5a729f]" started-at="2025-11-26T12:15:05 AST" name="setup" finished-at="2025-11-26T12:15:17 AST" duration-ms="12502" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.LoginTest@97e93f1]" started-at="2025-11-24T12:48:44 AST" name="teardown" finished-at="2025-11-24T12:48:44 AST" duration-ms="756" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.LoginTest@5a5a729f]" started-at="2025-11-26T12:20:45 AST" name="teardown" finished-at="2025-11-26T12:20:45 AST" duration-ms="656" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
