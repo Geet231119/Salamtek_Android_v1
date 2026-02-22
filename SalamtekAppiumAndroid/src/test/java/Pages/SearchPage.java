@@ -290,7 +290,8 @@ public class SearchPage extends BaseTest {
 				takeScreenShot(driver, "SearchPage", tcID, sheetName);
 				driver.findElement(searchBtn).click();
 				explicitWait(driver, driver.findElement(searchName));
-				if (driver.findElement(searchName).getText().trim().contains(searchValue)) {
+				int count = Integer.parseInt(driver.findElement(searchName).getText().trim());
+				if (count <= Integer.parseInt(searchValue)) {
 					waitSometime();
 					takeScreenShot(driver, "SearchResult", tcID, sheetName);
 					result = true;
@@ -323,7 +324,8 @@ public class SearchPage extends BaseTest {
 				takeScreenShot(driver, "SearchPage", tcID, sheetName);
 				driver.findElement(searchBtn).click();
 				explicitWait(driver, driver.findElement(searchName));
-				if (driver.findElement(searchName).getText().trim().contains(searchValue)) {
+				int count1 = Integer.parseInt(driver.findElement(searchName).getText().trim());
+				if (count1 <= Integer.parseInt(searchValue)) {
 					waitSometime();
 					takeScreenShot(driver, "SearchResult", tcID, sheetName);
 					result = true;
@@ -399,7 +401,8 @@ public class SearchPage extends BaseTest {
 				takeScreenShot(driver, "SearchPage", tcID, sheetName);
 				driver.findElement(searchBtn).click();
 				explicitWait(driver, driver.findElement(searchName));
-				if (driver.findElement(searchName).getText().trim().contains(searchValue)) {
+				int count2 = Integer.parseInt(driver.findElement(searchName).getText().trim());
+				if (count2 <= Integer.parseInt(searchValue)) {
 					waitSometime();
 					takeScreenShot(driver, "SearchResult", tcID, sheetName);
 					result = true;

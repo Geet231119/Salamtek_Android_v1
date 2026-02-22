@@ -1,24 +1,30 @@
-[INFO ] 2025-11-26 11:00:19.306 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:03:33.993 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:03:35.216 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 11:03:50.377 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:20:16.293 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:23:17.440 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:23:17.448 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:23:17.453 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 11:38:31.814 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:41:44.946 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:41:46.170 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 11:44:09.048 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:46:02.148 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:46:04.907 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 11:46:51.553 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 11:48:45.769 [main] Log - BookingAppointment_BANK test is failed.
-[INFO ] 2025-11-26 11:48:48.192 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 11:50:49.887 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 12:15:18.271 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 12:20:44.121 [main] Log - BookingAppointment_BANK test is succeed.
-[INFO ] 2025-11-26 12:20:44.906 [main] Log - I am in onFinish method Test1
-[INFO ] 2025-11-26 13:52:33.650 [main] Log - I am in onStart method Test1
-[INFO ] 2025-11-26 13:56:52.357 [main] Log - BookingAppointment_BANK test is succeed.
-[INFO ] 2025-11-26 13:56:53.034 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-28 09:29:09.373 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 09:32:50.830 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 09:33:50.933 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 09:34:51.063 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-28 09:38:42.621 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 09:40:35.841 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 09:40:38.284 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-28 09:41:56.647 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 09:46:01.806 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 09:53:11.224 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 09:56:04.192 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 09:56:41.831 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 09:56:41.869 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-28 10:00:33.536 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 10:03:30.196 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-28 10:25:45.502 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 10:30:48.348 [main] Log - BookingAppointment_BANK test is succeed.
+[INFO ] 2026-01-28 10:30:49.149 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-28 10:32:38.541 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-28 10:37:13.585 [main] Log - BookingAppointment_BANK test is succeed.
+[INFO ] 2026-01-28 10:40:35.581 [main] Log - BookingAppointment_Reschedule test is succeed.
+[INFO ] 2026-01-28 10:42:53.458 [main] Log - BookingAppointment_Cancel test is succeed.
+[INFO ] 2026-01-28 10:46:05.064 [main] Log - BookingAppointment_Cancel test is succeed.
+[INFO ] 2026-01-28 10:50:23.737 [main] Log - BookingMedicalAppointment_Reschedule test is succeed.
+[INFO ] 2026-01-28 10:54:31.773 [main] Log - BookingMedicalAppointment_Cancel test is succeed.
+[INFO ] 2026-01-28 10:58:05.470 [main] Log - ShopOnline_Pharmacy test is succeed.
+[INFO ] 2026-01-28 11:02:23.595 [main] Log - ShopOnline_Pharmacy test is succeed.
+[INFO ] 2026-01-28 11:06:08.871 [main] Log - ShopOnline_Pharmacy test is succeed.
+[INFO ] 2026-01-28 11:09:58.347 [main] Log - ShopOnline_Pharmacy_Cancel test is succeed.
+[INFO ] 2026-01-28 11:09:58.459 [main] Log - I am in onFinish method Test1

@@ -1,0 +1,82 @@
+[INFO ] 2026-01-25 10:59:48.998 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 10:59:57.643 [main] Log - Login test is failed.
+[INFO ] 2026-01-25 10:59:57.647 [main] Log - Login test is failed.
+[INFO ] 2026-01-25 10:59:57.648 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 11:00:56.901 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:02:00.299 [main] Log - Login test is succeed.
+[INFO ] 2026-01-25 11:04:05.543 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:05:20.668 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:07:37.743 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:08:45.709 [main] Log - BookingAppointment_WALLET test is failed.
+[INFO ] 2026-01-25 11:10:52.547 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:13:09.529 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:13:10.891 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 11:13:58.224 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:22:32.855 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:29:34.892 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:29:45.063 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:29:45.066 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:29:45.066 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 11:30:43.487 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:38:57.531 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:48:23.142 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:52:05.417 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:56:41.736 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 11:57:52.554 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:57:52.569 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 11:57:52.574 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 11:58:56.713 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:04:49.799 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:18:16.407 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:26:20.006 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:34:34.775 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:42:27.852 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 12:46:19.114 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:04:54.089 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:07:22.761 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:07:31.374 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 13:07:31.377 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-25 13:07:31.378 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 13:13:05.596 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:17:12.772 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:27:17.021 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:30:19.856 [main] Log - BookingAppointment_WALLET test is succeed.
+[INFO ] 2026-01-25 13:32:23.935 [main] Log - BookingMedicalAppointment_Profile_Wallet test is succeed.
+[INFO ] 2026-01-25 13:34:49.069 [main] Log - BookingMedicalAppointment_Cancel test is succeed.
+[INFO ] 2026-01-25 13:35:30.774 [main] Log - RadiologySection test is succeed.
+[INFO ] 2026-01-25 13:36:17.021 [main] Log - Radiology_Filter test is succeed.
+[INFO ] 2026-01-25 13:37:02.722 [main] Log - Radiology_Filter test is succeed.
+[INFO ] 2026-01-25 13:37:48.701 [main] Log - Radiology_Filter test is succeed.
+[INFO ] 2026-01-25 13:38:34.333 [main] Log - Beauty_Filter test is succeed.
+[INFO ] 2026-01-25 13:39:19.334 [main] Log - Beauty_Filter test is succeed.
+[INFO ] 2026-01-25 13:40:04.557 [main] Log - Beauty_Filter test is succeed.
+[INFO ] 2026-01-25 13:40:49.993 [main] Log - Lab_Filter test is succeed.
+[INFO ] 2026-01-25 13:41:35.020 [main] Log - Lab_Filter test is succeed.
+[INFO ] 2026-01-25 13:42:20.107 [main] Log - Lab_Filter test is succeed.
+[INFO ] 2026-01-25 13:42:20.283 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-25 13:49:38.481 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 13:51:46.226 [main] Log - UploadPrescription test is succeed.
+[INFO ] 2026-01-25 13:54:11.750 [main] Log - ShopOnline_Pharmacy test is succeed.
+[INFO ] 2026-01-25 13:57:01.110 [main] Log - ShopOnline_Pharmacy_Cancel test is succeed.
+[INFO ] 2026-01-25 13:58:20.953 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 13:59:39.910 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:01:01.151 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:02:21.473 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:03:41.427 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:05:02.921 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:06:25.402 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:07:57.118 [main] Log - Search test is succeed.
+[INFO ] 2026-01-25 14:09:17.639 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:10:01.991 [main] Log - AdvancedSearch_ALL test is failed.
+[INFO ] 2026-01-25 14:12:28.490 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:13:44.765 [main] Log - AdvancedSearch_ALL test is failed.
+[INFO ] 2026-01-25 14:14:40.610 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:15:32.432 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:16:19.170 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:19:47.075 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-25 14:20:39.957 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-25 14:22:08.498 [main] Log - AdvancedSearch_Specific test is failed.
+[INFO ] 2026-01-25 14:23:02.195 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-25 14:26:03.561 [main] Log - AdvancedSearch_Specific test is failed.
+[INFO ] 2026-01-25 14:31:46.137 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-25 14:35:09.638 [main] Log - AdvancedSearch_Specific test is succeed.

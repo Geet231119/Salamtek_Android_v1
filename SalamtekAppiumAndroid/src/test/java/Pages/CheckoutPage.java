@@ -1,5 +1,6 @@
 package Pages;
 
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
@@ -14,6 +15,7 @@ import Utils.ExcelUtils;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class CheckoutPage extends BaseTest {
 
@@ -231,7 +233,7 @@ public class CheckoutPage extends BaseTest {
 		try {
 			waitSometime();
 			click_IfDisplayed(futureAppointmentAlert, futureAlertProceedBtn);
-			waitSometime();
+			waitForSpecificTime(15000);
 			Set<String> contextNames = driver.getContextHandles();
 			System.out.println(contextNames);
 			for (String conName : contextNames) {
@@ -243,6 +245,7 @@ public class CheckoutPage extends BaseTest {
 					System.out.println("How many windows: " + tabs.size());
 					for (String t : tabs) {
 						// Checking for the current active payment and switching to that window.
+						System.out.println("URL: " + driver.switchTo().window(t).getCurrentUrl());
 						if (driver.switchTo().window(t).getCurrentUrl().contains("PaymentID")) {
 							System.out.println("Ready to enter KNET details");
 							driver.switchTo().window(t);
@@ -317,6 +320,7 @@ public class CheckoutPage extends BaseTest {
 					System.out.println("How many windows: " + tabs.size());
 					for (String t : tabs) {
 						// Checking for the current active payment and switching to that window.
+						System.out.println("URL: " + driver.switchTo().window(t).getCurrentUrl());
 						if (driver.switchTo().window(t).getCurrentUrl().contains("/checkout")) {
 							System.out.println("URL: " + driver.switchTo().window(t).getCurrentUrl());
 							System.out.println("Ready to enter VISA details");

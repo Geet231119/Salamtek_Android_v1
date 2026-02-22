@@ -1,0 +1,29 @@
+[INFO ] 2026-01-27 08:21:39.194 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 08:25:59.400 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-27 08:27:30.343 [main] Log - AdvancedSearch_Specific test is failed.
+[INFO ] 2026-01-27 08:28:33.978 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-27 08:29:38.467 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-27 08:31:44.817 [main] Log - PillReminder test is succeed.
+[INFO ] 2026-01-27 08:31:44.819 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-27 08:35:29.586 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 08:37:48.672 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-27 08:48:49.772 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 08:50:26.878 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-27 08:51:47.105 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-27 08:53:19.834 [main] Log - AdvancedSearch_Specific test is succeed.
+[INFO ] 2026-01-27 08:53:19.884 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-27 09:03:29.417 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:05:37.086 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-27 09:05:37.246 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-27 09:12:25.874 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:14:01.126 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-27 09:15:21.044 [main] Log - AdvancedSearch_ALL test is succeed.
+[INFO ] 2026-01-27 09:15:21.169 [main] Log - I am in onFinish method Test1
+[INFO ] 2026-01-27 09:18:10.847 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:34:44.783 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:45:00.475 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:51:35.990 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 09:58:29.253 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 10:09:56.198 [main] Log - I am in onStart method Test1
+[INFO ] 2026-01-27 10:12:53.313 [main] Log - BookingAppointment_BANK test is failed.
+[INFO ] 2026-01-27 10:12:54.444 [main] Log - I am in onFinish method Test1
